@@ -1,8 +1,8 @@
-import FaceBook from "../SvgIcon/FaceBook";
-import Instagram from "../SvgIcon/Instagram";
-import Twitter from "../SvgIcon/Twitter";
-import GitHub from "../SvgIcon/GitHub";
-import UnknowSvgIcon from "../SvgIcon/UnknowSvgIcon";
+import FaceBook from "../../component/SvgIcon/FaceBook.jsx";
+import Instagram from "../../component/SvgIcon/Instagram.jsx";
+import Twitter from "../../component/SvgIcon/Twitter.jsx";
+import GitHub from "../../component/SvgIcon/Github.jsx";
+import UnknowSvgIcon from "../../component/SvgIcon/UnknowSvgIcon.jsx"
 
 const socialMediaIcon = [
   FaceBook,

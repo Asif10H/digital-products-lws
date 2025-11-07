@@ -4,7 +4,7 @@ const GitHubSvgIcon = () => {
   return (
     <div>
       <svg
-        className="w-4 h-4 mr-2 text-gray-500 dark:text-gray-400"
+        class="w-4 h-4 mr-2 text-gray-500 dark:text-gray-400"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 496 512"
       >

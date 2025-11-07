@@ -4,7 +4,7 @@ const MashableSvgIcon = () => {
   return (
     <>
       <svg
-        className="h-6 hover:text-gray-900 dark:hover:text-white"
+        class="h-6 hover:text-gray-900 dark:hover:text-white"
         viewBox="0 0 124 21"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"

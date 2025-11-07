@@ -4,7 +4,7 @@ const VerifiedSvgIcon = () => {
   return (
     <div>
       <svg
-        className="flex-shrink-0 w-5 h-5 text-purple-500 dark:text-purple-400"
+        class="flex-shrink-0 w-5 h-5 text-purple-500 dark:text-purple-400"
         fill="currentColor"
         viewBox="0 0 20 20"
         xmlns="http://www.w3.org/2000/svg"

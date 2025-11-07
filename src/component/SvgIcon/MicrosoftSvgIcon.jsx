@@ -4,7 +4,7 @@ const MicrosoftSvgIcon = () => {
   return (
     <>
       <svg
-        className="h-8 hover:text-gray-900 dark:hover:text-white"
+        class="h-8 hover:text-gray-900 dark:hover:text-white"
         viewBox="0 0 151 34"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
